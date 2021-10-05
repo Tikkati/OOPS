@@ -1,0 +1,6 @@
+we define class instance as public and private.
+
+Private instances are the ones which cannot be used by all users as thery are of meant for the code .
+denoted by _ or __ as prefix
+
+Public instances can be accessed by all user.
